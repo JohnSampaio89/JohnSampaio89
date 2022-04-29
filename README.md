@@ -1,7 +1,6 @@
-## Oiii eu sou o John Sampaio, criador de conteúdo de programação e tecnologia!
-
-- 👋 Hi, I’m @JohnSampaio89   
-- 👀 I’m interested in  python, c++, javascript
+## Oiii eu sou o Lindolfo(John) Sampaio, criador de conteúdo de programação e tecnologia!
+ 
+- 👀 I’m interested in  python, c++, javascript, html, css,
 - 🌱 I’m currently learning  c++
 - 💞️ I’m looking to collaborate on  projetos
 - 📫 How to reach me ...  @john.sampaio11 intagram
